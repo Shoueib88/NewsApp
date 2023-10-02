@@ -1,2 +1,2 @@
 # NewsApp
-news application
+##using(Getx - Apis - Ui/Ux)
