@@ -1,2 +1,2 @@
 # NewsApp
-##using(Getx - Apis - Ui/Ux)
+##using(Getx - Apis - Ui/Ux design)
